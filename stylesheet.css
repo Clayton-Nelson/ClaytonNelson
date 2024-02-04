@@ -143,11 +143,11 @@ section h1 {
 }
 
 .job .left {
-    flex-grow: 1;
+    flex: 1;
 }
 
 .job .right {
-    flex-grow: 4;
+    flex: 4;
 }
 
 .job .year {
@@ -165,6 +165,7 @@ section h1 {
 
 .job-description {
     color: #eeeeee;
+    opacity: 0.7;
     margin: 5px 0;
 }
 
